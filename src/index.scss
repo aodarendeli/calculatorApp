@@ -1,0 +1,10 @@
+@import './styles/color';
+
+body{
+    background-color: $theme-color;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: auto;
+    width: 100%;
+} 
